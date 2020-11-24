@@ -1,21 +1,15 @@
 # Installatie instructies
 
- npm start
-    Starts the development server.
+Kopieer de url en clone dit naar je eigen/nieuwe respository. 
 
-  npm run build
-    Bundles the app into static files for production.
+#git clone *url*
 
-  npm test
-    Starts the test runner.
+Installeer je package door middel van de volgende command:
 
-  npm run eject
-    Removes this tool and copies build dependencies, configuration files
-    and scripts into the app directory. If you do this, you can’t go back!
+#npm install
 
-We suggest that you begin by typing:
+Start de applicatie met:
 
-  cd my-react-app
-  npm start
+#npm start
 
 Happy hacking!
