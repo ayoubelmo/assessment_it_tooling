@@ -11,5 +11,3 @@ Installeer je package door middel van de volgende command:
 Start de applicatie met:
 
 #npm start
-
-Happy hacking!
